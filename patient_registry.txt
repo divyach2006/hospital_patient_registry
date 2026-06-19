@@ -1,0 +1,6 @@
+Patient Name:ddd, Date of Admission:2026-06-11, Illness:cold
+Patient Name:ddd, Date of Admission:2026-06-11, Illness:cold
+Patient Name:ddd, Date of Admission:2026-06-11, Illness:cold
+Patient Name:pooja, Date of Admission:2026-06-19, Illness:fever
+Patient Name:undefined, Date of Admission:undefined, Illness:undefined
+Patient Name:, Date of Admission:, Illness:
