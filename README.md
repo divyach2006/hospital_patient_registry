@@ -1,7 +1,7 @@
 
 # Hospital Patient Registry
 
-A simple Hospital Patient Registry web application built using Node.js and Express.js.
+~ Hospital Patient Registry using Node.js, Express.js, HTML and CSS with patient registration and record viewing functionality.
 
 ## Features
 
@@ -33,9 +33,7 @@ hospital-patient-registry/
 ├── package.json
 └── README.md
 
-## Installation
+## Author
+Divya chauhan
+B.tech AIML student
 
-1. Clone the repository
-
-```bash
-git clone <repository-link>
